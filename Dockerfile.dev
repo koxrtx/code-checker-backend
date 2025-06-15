@@ -1,6 +1,6 @@
 #開発環境用
 # Ruby のベースイメージを指定
-FROM ruby:3.3.6
+FROM ruby:3.4.4
 
 # 環境変数の設定
 ENV LANG C.UTF-8
