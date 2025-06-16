@@ -1,0 +1,17 @@
+ja:
+  layouts:
+    application:
+      title: codechecker
+  views:
+    header:
+      my_page: "マイページ"
+      logout: ログアウト
+      login: ログイン
+      new_user: 新規登録
+  home:
+    title: ホーム画面
+  users:
+    new:
+      title: ユーザー登録
+    show:
+      title: プロフィール
